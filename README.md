@@ -1,120 +1,110 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║         ESTEBAN JAVIER GRANADOS SIBAJA                   ║
-║         Information Systems Engineering · UNA            ║
-║         San José, Costa Rica                             ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Esteban%20Granados&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-javier-granados-sibaja/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.j.granados@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanJavierGranadosSibaja)
+<sub>Backend · Infrastructure · Security-curious</sub>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-javier-granados-sibaja/)
+[![Email](https://img.shields.io/badge/Email-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:esteban.j.granados@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EstebanJavierGranadosSibaja)
+
+<br><br>
+
+<sub>[GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanJavierGranadosSibaja&show_icons=true&hide_border=true&bg_color=0f2027&title_color=4fd1c5&icon_color=4fd1c5&text_color=c9d1d9) &nbsp;·&nbsp; [Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanJavierGranadosSibaja&layout=compact&hide_border=true&bg_color=0f2027&title_color=4fd1c5&text_color=c9d1d9)</sub>
 
 </div>
 
----
+<br>
 
-## `$ whoami`
+## `~/whoami`
 
-Fourth-year **Information Systems Engineering** student at Universidad Nacional de Costa Rica, with a broad technical foundation built through real projects — from designing compilers and concurrent systems to mobile apps and machine learning models.
+Final-year Information Systems Engineering student at UNA. I lean toward backend, architecture, and systems — I read the whole thing before I touch it, and iterate until it's actually right.
 
-I thrive in fast-moving, technically challenging environments. I'm the kind of developer who drives projects forward: I coordinate teams, communicate solutions clearly, and don't stop at "it works" — I push until it's right.
+<br>
 
-Currently seeking a **professional internship** where I can contribute real value and keep growing.
+## `~/currently`
 
----
+- Professional Intern @ **Argana** — infrastructure and tooling work on an internal ERP *(details are private)*.
+- Moving from **security theory into practice** — Linux, networking, and hands-on tools like Wireshark and VirtualBox.
 
-## `$ ls ./stack`
+<br>
 
-<div align="center">
+## `~/stack`
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white)
+<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="44" alt="Java"/></a>
+<a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="44" alt="C++"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="44" alt="Python"/></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" height="44" alt="C#"/></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="44" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="44" alt="JavaScript"/></a>
 
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="44" alt="React / React Native"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="44" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="44" alt="CSS"/></a>
 
-**Backend & Cloud**
+**Backend & Data**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="44" alt="PostgreSQL"/></a>
+<a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="44" alt="MongoDB"/></a>
+<a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="44" alt="Docker"/></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="44" alt="Git"/></a>
 
-**Databases**
+**Cloud & AI**
 
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" alt="AWS"/></a>
+<a href="https://scikit-learn.org" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="44" alt="scikit-learn"/></a>
+<a href="https://jupyter.org" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="44" alt="Jupyter"/></a>
 
-**AI & Data**
+**Security & Systems**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="44" alt="Linux"/></a>
+<a href="https://www.kali.org" target="_blank"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="44" alt="Kali Linux"/></a>
+<a href="https://www.wireshark.org" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="28" alt="Wireshark"/></a>
+<a href="https://www.virtualbox.org" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" height="28" alt="VirtualBox"/></a>
+<a href="https://www.cisco.com/c/en/us/solutions/networking.html" target="_blank"><img src="https://img.shields.io/badge/Networking-1D5C8C?style=flat-square&logo=cisco&logoColor=white" height="28" alt="Networking"/></a>
 
-**Tools**
+<br><br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logoColor=white)
+## `~/projects`
 
-</div>
+| Project | Stack | |
+|:--|:--|:--|
+| **[Omaha Hi Poker](https://github.com/EstebanJavierGranadosSibaja/project-poker-omaha-hi-)** | C++ · SFML | 6-player poker with a full hand-evaluation engine, built almost entirely by hand — the one I'm proudest of. |
+| **[KAIZEN](https://github.com/EstebanJavierGranadosSibaja/KAIZEN_PROJECT)** | C# · Compilers | An IDE for a language designed from scratch: lexer, parser, AST, semantic analysis, codegen. |
+| **[ThreadTower](https://github.com/EstebanJavierGranadosSibaja/ThreadTower)** | C# · Concurrency | Multithreaded elevator simulator with dynamic thread spawning and emergency routing. |
+| **[control-versiones-SO](https://github.com/EstebanJavierGranadosSibaja/control-versiones-SO)** | Python · Systems | A local, Git-like VCS — push/pull, branching, snapshots. |
 
----
+<sub>Also: [HousingPricesAI](https://github.com/EstebanJavierGranadosSibaja/HousingPricesAI) — Linear Regression vs. Random Forest on housing prices.</sub>
 
-## `$ cat ./projects/featured`
+<br>
 
-| Project | Stack | What it does |
-|---|---|---|
-| [**KAIZEN_PROJECT**](https://github.com/EstebanJavierGranadosSibaja/KAIZEN_PROJECT) | `C#` `Compiler Design` | Custom IDE with a hand-crafted language — lexer, parser, AST, semantic analyzer, code generator. Supports loops, recursion, N-level nesting. 124 commits. |
-| [**ThreadTower**](https://github.com/EstebanJavierGranadosSibaja/ThreadTower) | `C#` `.NET` `Concurrency` | Multithreaded elevator simulator — dynamic thread spawning per building, floor, and elevator. Emergency routing and concurrent lift management. |
-| [**MyPlantCenter**](https://github.com/EstebanJavierGranadosSibaja/MyPlantCenter) | `React Native` `Expo` `TypeScript` | Mobile plant identification app with Expo Router, custom component library, and light/dark/system theme engine. In active development. |
-| [**control-versiones-SO**](https://github.com/EstebanJavierGranadosSibaja/control-versiones-SO) | `Python` `OS` | Local version control system inspired by Git — push/pull, commit tracking, branching, and snapshot management. |
-| [**project-poker-omaha-hi**](https://github.com/EstebanJavierGranadosSibaja/project-poker-omaha-hi-) | `C++` `SFML` | Fully playable 6-player Omaha Hi poker with SFML GUI and complete hand evaluation engine. |
-| [**HousingPricesAI**](https://github.com/EstebanJavierGranadosSibaja/HousingPricesAI) | `Python` `Scikit-learn` `ML` | Housing price prediction comparing Linear Regression vs Random Forest on the Kaggle House Prices dataset. |
+## `~/experience`
 
----
+| Role | Where | When |
+|:--|:--|:--|
+| Professional Intern — code analysis, infrastructure, and coordination on an enterprise ERP | Argana | 2026 – present |
+| Academic Tutor, CS — mentored 115+ students across CS Fundamentals, Programming 2 & 3 | UNA · Éxito Académico | 2024 – present |
+| Instructor — Smartphone Basics & Canva Suite for ~70 older-adult students | UNAPAM, UNA | 2024 – 2025 |
+| Project Coordinator & Developer — led projects across compilers, concurrency, mobile, ML | UNA | 2023 – present |
 
-## `$ cat ./experience`
+<br>
 
-**Academic Tutor — Computer Science** *(2024 – Present)*
-`Área de Éxito Académico · Universidad Nacional de Costa Rica`
+## `~/certifications`
 
-Mentored **115+ students** across three courses: Computer Science Fundamentals, Programming 2, and Programming 3. Designed complete teaching materials, led sessions, and applied Scrum-style planning to track student progress.
+Scrum Fundamentals — ScrumStudy &nbsp;·&nbsp; Linux Essentials — Cisco &nbsp;·&nbsp; OS Basics — Cisco &nbsp;·&nbsp; IT English (Intermediate)
 
-**Project Coordinator & Developer** *(2023 – Present)*
-`Universidad Nacional de Costa Rica · Teams of 2–5`
-
-Drove multiple academic group projects from planning to delivery — coordinating meetings, unblocking teammates, and presenting final products. Shipped systems in compiler design, concurrent programming, mobile development, REST APIs, and ML.
-
----
-
-## `$ cat ./certifications`
-
-- 🟢 **Scrum Fundamentals Certified** — ScrumStudy
-- 🔵 **Linux Essentials** (2 courses) — Cisco Networking Academy
-- 🔵 **Operating Systems Basics** — Cisco Networking Academy
-
----
+<br>
 
 <div align="center">
 
-*Open to professional internships — San José, CR · Hybrid · Remote*
+<sub>San José, Costa Rica · coursework done Nov 2026 · degree May 2027</sub>
 
-`esteban.j.granados@gmail.com`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" width="100%"/>
 
 </div>
