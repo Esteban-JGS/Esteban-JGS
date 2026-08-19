@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=130&section=header&text=Esteban%20Granados&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<sub>Backend · Infrastructure · Security-curious</sub><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-javier-granados-sibaja/)
 [![Email](https://img.shields.io/badge/Email-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:esteban.j.granados@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EstebanJavierGranadosSibaja)
@@ -18,7 +16,7 @@ Final-year Information Systems Engineering student at UNA. I lean toward backend
 
 ### `~/currently`
 
-- Professional Intern @ **Argana** — infrastructure and tooling work on an internal ERP *(details are private)*.
+- Professional Intern **Argana** — infrastructure, development and tooling work on an internal ERP.
 - Moving from **security theory into practice** — Linux, networking, and hands-on tools like Wireshark and VirtualBox.
 
 ### `~/stack`
