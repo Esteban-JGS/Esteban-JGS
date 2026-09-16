@@ -45,13 +45,6 @@ Final-year Information Systems Engineering student at UNA. I lean toward backend
 <a href="https://scikit-learn.org" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="36" alt="scikit-learn"/></a>
 <a href="https://jupyter.org" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="36" alt="Jupyter"/></a>
 
-**Security & Systems**<br>
-<a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="36" alt="Linux"/></a>
-<a href="https://www.kali.org" target="_blank"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="36" alt="Kali Linux"/></a>
-<a href="https://www.wireshark.org" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="22" alt="Wireshark"/></a>
-<a href="https://www.virtualbox.org" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" height="22" alt="VirtualBox"/></a>
-<a href="https://www.cisco.com/c/en/us/solutions/networking.html" target="_blank"><img src="https://img.shields.io/badge/Networking-1D5C8C?style=flat-square&logo=cisco&logoColor=white" height="22" alt="Networking"/></a>
-
 ### `~/projects`
 
 | Project | Stack | |
