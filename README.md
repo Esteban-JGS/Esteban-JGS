@@ -17,7 +17,6 @@ Final-year Information Systems Engineering student at UNA. I lean toward backend
 ### `~/currently`
 
 - Professional Intern **Argana** — infrastructure, development and tooling work on an internal ERP.
-- Moving from **security theory into practice** — Linux, networking, and hands-on tools like Wireshark and VirtualBox.
 
 ### `~/stack`
 
