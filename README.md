@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-javier-granados-sibaja/)
 [![Email](https://img.shields.io/badge/Email-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:esteban.j.granados@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EstebanJavierGranadosSibaja)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Esteban-JGS)
 
 <sub>[GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanJavierGranadosSibaja&show_icons=true&hide_border=true&bg_color=0f2027&title_color=4fd1c5&icon_color=4fd1c5&text_color=c9d1d9) &nbsp;·&nbsp; [Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanJavierGranadosSibaja&layout=compact&hide_border=true&bg_color=0f2027&title_color=4fd1c5&text_color=c9d1d9)</sub>
 
